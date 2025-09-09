@@ -1,1 +1,1 @@
-# bioinformatics-rosalind
+# Jeff Demuth + 1000345678 + BIOL5340-001
